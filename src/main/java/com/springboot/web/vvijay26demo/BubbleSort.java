@@ -1,9 +1,11 @@
 package com.springboot.web.vvijay26demo;
 
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 
 @Component
-public class BubbleSort implements sortAlgorithm {
+@Qualifier("bubble")
+public class BubbleSort implements SortAlgorithm {
 
 	@Override
 	public int[] sort(int[] numbers) {
