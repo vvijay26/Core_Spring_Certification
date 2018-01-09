@@ -10,6 +10,8 @@ import org.springframework.web.bind.annotation.RestController;
 public class BooksController {
 	@GetMapping("/books")
 	public List<Book> getAllBooks() {
+		// automatically returned as json because of spring-boot-starter-json dependency
+		// on pom.xml
 		return Arrays.asList(new Book(1l, "Example", "Vijay"));
 	}
 }
