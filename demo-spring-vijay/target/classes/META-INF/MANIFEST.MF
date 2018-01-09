@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: demo-spring-vijay
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Vi3o1b5
+Implementation-Vendor-Id: com.vvijay26.springboot.basics
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/demo-spring-vijay/
+Created-By: Maven Integration for Eclipse
+
