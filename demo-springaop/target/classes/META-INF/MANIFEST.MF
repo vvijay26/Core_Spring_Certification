@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: demo-springaop
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: vi3o1b5
+Implementation-Vendor-Id: com.vvijay26.springaop
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/demo-springaop/
+Created-By: Maven Integration for Eclipse
+
