@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: demo-spring-database
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: vi3o1b5
+Implementation-Vendor-Id: com.vvijay26.springdata
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/demo-spring-database/
+Created-By: Maven Integration for Eclipse
+
